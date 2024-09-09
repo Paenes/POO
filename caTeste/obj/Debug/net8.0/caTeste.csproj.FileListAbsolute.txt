@@ -1,0 +1,14 @@
+C:\Users\Thulio\Desktop\UFU\POO\caTeste\bin\Debug\net8.0\caTeste.exe
+C:\Users\Thulio\Desktop\UFU\POO\caTeste\bin\Debug\net8.0\caTeste.deps.json
+C:\Users\Thulio\Desktop\UFU\POO\caTeste\bin\Debug\net8.0\caTeste.runtimeconfig.json
+C:\Users\Thulio\Desktop\UFU\POO\caTeste\bin\Debug\net8.0\caTeste.dll
+C:\Users\Thulio\Desktop\UFU\POO\caTeste\bin\Debug\net8.0\caTeste.pdb
+C:\Users\Thulio\Desktop\UFU\POO\caTeste\obj\Debug\net8.0\caTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thulio\Desktop\UFU\POO\caTeste\obj\Debug\net8.0\caTeste.AssemblyInfoInputs.cache
+C:\Users\Thulio\Desktop\UFU\POO\caTeste\obj\Debug\net8.0\caTeste.AssemblyInfo.cs
+C:\Users\Thulio\Desktop\UFU\POO\caTeste\obj\Debug\net8.0\caTeste.csproj.CoreCompileInputs.cache
+C:\Users\Thulio\Desktop\UFU\POO\caTeste\obj\Debug\net8.0\caTeste.dll
+C:\Users\Thulio\Desktop\UFU\POO\caTeste\obj\Debug\net8.0\refint\caTeste.dll
+C:\Users\Thulio\Desktop\UFU\POO\caTeste\obj\Debug\net8.0\caTeste.pdb
+C:\Users\Thulio\Desktop\UFU\POO\caTeste\obj\Debug\net8.0\caTeste.genruntimeconfig.cache
+C:\Users\Thulio\Desktop\UFU\POO\caTeste\obj\Debug\net8.0\ref\caTeste.dll
