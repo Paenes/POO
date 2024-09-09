@@ -1,0 +1,7 @@
+C:\Users\Thulio\Desktop\UFU\POO\Prova1\Questao1\bin\Debug\Questao1.exe.config
+C:\Users\Thulio\Desktop\UFU\POO\Prova1\Questao1\bin\Debug\Questao1.exe
+C:\Users\Thulio\Desktop\UFU\POO\Prova1\Questao1\bin\Debug\Questao1.pdb
+C:\Users\Thulio\Desktop\UFU\POO\Prova1\Questao1\obj\Debug\Questao1.csproj.AssemblyReference.cache
+C:\Users\Thulio\Desktop\UFU\POO\Prova1\Questao1\obj\Debug\Questao1.csproj.CoreCompileInputs.cache
+C:\Users\Thulio\Desktop\UFU\POO\Prova1\Questao1\obj\Debug\Questao1.exe
+C:\Users\Thulio\Desktop\UFU\POO\Prova1\Questao1\obj\Debug\Questao1.pdb
