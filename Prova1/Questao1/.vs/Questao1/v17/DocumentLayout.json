@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{0F607DB4-42EA-406F-A54E-219C1E158147}|Questao1.csproj|solutionrelative:nomeproprio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F607DB4-42EA-406F-A54E-219C1E158147}|Questao1.csproj|c:\\users\\thulio\\desktop\\ufu\\poo\\prova1\\questao1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0F607DB4-42EA-406F-A54E-219C1E158147}|Questao1.csproj|C:\\Users\\Thulio\\Desktop\\UFU\\POO\\Prova1\\Questao1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F607DB4-42EA-406F-A54E-219C1E158147}|Questao1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "NomeProprio.cs",
               "ToolTip": "C:\\Users\\Thulio\\Desktop\\UFU\\POO\\Prova1\\Questao1\\NomeProprio.cs",
               "RelativeToolTip": "NomeProprio.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAcwE8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAowB4AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-09T17:57:18.66Z",
               "EditorCaption": ""
@@ -43,8 +43,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T17:56:06.293Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T17:56:06.293Z"
             }
           ]
         }
