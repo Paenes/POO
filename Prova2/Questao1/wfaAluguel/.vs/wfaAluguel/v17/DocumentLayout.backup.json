@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Thulio\\Desktop\\UFU\\POO\\Prova2\\Questao1\\wfaAluguel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{985DCCF4-08CD-4A8B-BEB7-59BE783D3DDA}|wfaAluguel.csproj|c:\\users\\thulio\\desktop\\ufu\\poo\\prova2\\questao1\\wfaaluguel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{985DCCF4-08CD-4A8B-BEB7-59BE783D3DDA}|wfaAluguel.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985DCCF4-08CD-4A8B-BEB7-59BE783D3DDA}|wfaAluguel.csproj|c:\\users\\thulio\\desktop\\ufu\\poo\\prova2\\questao1\\wfaaluguel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{985DCCF4-08CD-4A8B-BEB7-59BE783D3DDA}|wfaAluguel.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985DCCF4-08CD-4A8B-BEB7-59BE783D3DDA}|wfaAluguel.csproj|c:\\users\\thulio\\desktop\\ufu\\poo\\prova2\\questao1\\wfaaluguel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{985DCCF4-08CD-4A8B-BEB7-59BE783D3DDA}|wfaAluguel.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985DCCF4-08CD-4A8B-BEB7-59BE783D3DDA}|wfaAluguel.csproj|c:\\users\\thulio\\desktop\\ufu\\poo\\prova2\\questao1\\wfaaluguel\\caminhao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{985DCCF4-08CD-4A8B-BEB7-59BE783D3DDA}|wfaAluguel.csproj|solutionrelative:caminhao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985DCCF4-08CD-4A8B-BEB7-59BE783D3DDA}|wfaAluguel.csproj|c:\\users\\thulio\\desktop\\ufu\\poo\\prova2\\questao1\\wfaaluguel\\onibus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{985DCCF4-08CD-4A8B-BEB7-59BE783D3DDA}|wfaAluguel.csproj|solutionrelative:onibus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985DCCF4-08CD-4A8B-BEB7-59BE783D3DDA}|wfaAluguel.csproj|c:\\users\\thulio\\desktop\\ufu\\poo\\prova2\\questao1\\wfaaluguel\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{985DCCF4-08CD-4A8B-BEB7-59BE783D3DDA}|wfaAluguel.csproj|solutionrelative:veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Thulio\\Desktop\\UFU\\POO\\Prova2\\Questao1\\wfaAluguel\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Thulio\\Desktop\\UFU\\POO\\Prova2\\Questao1\\wfaAluguel\\Form1.cs*",
+              "RelativeToolTip": "Form1.cs*",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:38:38.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Caminhao.cs",
+              "DocumentMoniker": "C:\\Users\\Thulio\\Desktop\\UFU\\POO\\Prova2\\Questao1\\wfaAluguel\\Caminhao.cs",
+              "RelativeDocumentMoniker": "Caminhao.cs",
+              "ToolTip": "C:\\Users\\Thulio\\Desktop\\UFU\\POO\\Prova2\\Questao1\\wfaAluguel\\Caminhao.cs",
+              "RelativeToolTip": "Caminhao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:19:16.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Onibus.cs",
+              "DocumentMoniker": "C:\\Users\\Thulio\\Desktop\\UFU\\POO\\Prova2\\Questao1\\wfaAluguel\\Onibus.cs",
+              "RelativeDocumentMoniker": "Onibus.cs",
+              "ToolTip": "C:\\Users\\Thulio\\Desktop\\UFU\\POO\\Prova2\\Questao1\\wfaAluguel\\Onibus.cs",
+              "RelativeToolTip": "Onibus.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:12:00.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Veiculo.cs",
+              "DocumentMoniker": "C:\\Users\\Thulio\\Desktop\\UFU\\POO\\Prova2\\Questao1\\wfaAluguel\\Veiculo.cs",
+              "RelativeDocumentMoniker": "Veiculo.cs",
+              "ToolTip": "C:\\Users\\Thulio\\Desktop\\UFU\\POO\\Prova2\\Questao1\\wfaAluguel\\Veiculo.cs",
+              "RelativeToolTip": "Veiculo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:10:24.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Thulio\\Desktop\\UFU\\POO\\Prova2\\Questao1\\wfaAluguel\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Thulio\\Desktop\\UFU\\POO\\Prova2\\Questao1\\wfaAluguel\\Form1.cs [Projeto]*",
+              "RelativeToolTip": "Form1.cs [Projeto]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:09:44.183Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Thulio\\Desktop\\UFU\\POO\\Prova2\\Questao1\\wfaAluguel\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Thulio\\Desktop\\UFU\\POO\\Prova2\\Questao1\\wfaAluguel\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:09:11.251Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
