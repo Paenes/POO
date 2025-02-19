@@ -1,0 +1,16 @@
+Versão 2.0 do laboratório 1
+    Modificações realizadas
+
+Cadastro de pessoas
+- Tela menu com limpa tela automático
+    - Registro de até 10 pessoas
+    - Consulta da lista de pessoas registradas
+
+Conta Bancaria
+- Tela menu com limpa tela automático
+    - Opções de depositar / sacar / verificar saldo / tela empréstimo
+    - Tela empréstimo
+        - Registro de empréstimo de 1 ano e checagem de valor de parcelas restantes
+
+Sistema de Animais
+- O gato late e o cachorro mia

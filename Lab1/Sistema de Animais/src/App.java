@@ -3,6 +3,7 @@ public class App {
         Animal meuCachorro = new Cachorro();
         Animal meuGato = new Gato();
         meuCachorro.emitirSom();
+        System.out.println();
         meuGato.emitirSom();
     }
 }
